@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VideoCallApplication</string>
+
+    <string name="app_id">6ab939bd01804c388a0a74f2f071fd10</string>
+    <string name="agora_token">007eJxTYHiTd61AdtWjmMOCHQxmJt
+        f31egvs75bx6xoHL+lwrv4rLkCg1likqWxZVKKgaGFgUmysYVFokGiuUma
+        UZqBuWFaiqHBfNuq5IZARoZCi0vMjAwQCOJzMThnJOblpeb456UyMAAAsGIgFQ==</string>
+
+    <string name="addAppId">ca-app-pub-3610713178096340~1366131607</string>
+    <string name="title_activity_new">NewActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
